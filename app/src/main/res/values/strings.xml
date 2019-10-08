@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Critical Roll</string>
+    <string name="empty"></string>
+    <string name="hit">Critical Hit!</string>
+</resources>
